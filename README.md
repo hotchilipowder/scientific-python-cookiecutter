@@ -6,7 +6,7 @@ This repository contains a cookiecutter template for generating a scientific
 Python project complete with CI testing and documentation.
 
 ```
-cookiecutter https://github.com/NSLS-II/scientific-python-cookiecutter
+cookiecutter https://github.com/hotchilipowder/scientific-python-cookiecutter
 ```
 
 Separately, beside the cookiecutter template, it contains

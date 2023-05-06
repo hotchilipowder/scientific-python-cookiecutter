@@ -16,6 +16,7 @@ Usage
 First, install cookiecutter, \ :code:`pip install cookiecutter`\.
 
 Then, 
+
 .. code-block:: bash
 
    cookiecutter https://github.com/hotchilipowder/scientific-python-cookiecutter

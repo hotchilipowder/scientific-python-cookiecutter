@@ -37,6 +37,8 @@ Add some sphinx-extensions
     
     bibtex_bibfiles = ['refs.bib']
 
+由于通常会使用bib, 所以简单的先加了一下refs.bib
+
 
 
 

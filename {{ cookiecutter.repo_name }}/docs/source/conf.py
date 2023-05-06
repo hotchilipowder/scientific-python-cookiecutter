@@ -42,8 +42,19 @@ extensions = [
     "IPython.sphinxext.ipython_console_highlighting",
     "matplotlib.sphinxext.plot_directive",
     "numpydoc",
+    
+    "sphinx_design",
     "sphinx_copybutton",
+    "sphinxcontrib-bibtex",
+    "sphinx_comments",
+    "sphinxemoji.sphinxemoji",
 ]
+
+html_css_files = [
+ "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+]
+
+bibtex_bibfiles = ['refs.bib']
 
 # Configuration options for plot_directive. See:
 # https://github.com/matplotlib/matplotlib/blob/f3ed922d935751e08494e5fb5311d3050a3b637b/lib/matplotlib/sphinxext/plot_directive.py#L81
